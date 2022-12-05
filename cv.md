@@ -17,4 +17,5 @@ A little about what I already know how to do:
 
 - Basic knowledge of HTML & css
 - English intermediate level
-- I little knowledge of Python 
+- I little knowledge of Python
+- Good manager skills
