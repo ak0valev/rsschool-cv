@@ -24,3 +24,4 @@ A little about what I already know how to do:
 - English intermediate level
 - I little knowledge of Python
 - Good manager skills
+- Spanish intermediate level
